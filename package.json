@@ -1,4 +1,4 @@
 {
   "name": "finalserver",
-  "scripts: "cd final/server && npm run server"
+  "scripts: "cd final/server && npm run start"
 }
