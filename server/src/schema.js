@@ -46,6 +46,6 @@ const typeDefs = gql`
     "The Module's length in minutes"
     length: Int
   }
-`;
+`
 
 module.exports = typeDefs;
